@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Who Wrote It?</string>
+    <string name="instructions">Introduzca un nombre de libro para encontrar quién lo escribió</string>
+    <string name="button_text">Buscar Libros</string>
+    <string name="input_hint">Título del libro</string>
+    <string name="no_results">Sin resultados</string>
+    <string name="loading">Cargando...</string>
+    <string name="no_search_term">Por favor ingrese un término de búsqueda</string>
+    <string name="no_network">Por favor verifique su conexión de red y vuelva a intentarlo.</string>
+</resources>
