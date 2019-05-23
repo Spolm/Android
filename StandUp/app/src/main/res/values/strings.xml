@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stand Up!</string>
+    <string name="alarm_on_toast">Alarma activada</string>
+    <string name="alarm_off_toast">Alarma desactivada</string>
+    <string name="notification_title">Alerta para levantarse</string>
+    <string name="notification_text">Ya debe levantarse y caminar alrededor!</string>
+</resources>
